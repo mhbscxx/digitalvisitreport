@@ -230,7 +230,7 @@ img {
 .home__img {
   position: absolute;
   right: 0;
-  bottom: 5%;
+  bottom: -12%;
   width: 182px;
 }
 
@@ -442,6 +442,7 @@ again
 
 /* ===== FOOTER =====*/
 .footer {
+  margin-top: 10px;
   background-color: var(--second-color);
   color: #fff;
   text-align: center;
